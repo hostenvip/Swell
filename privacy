@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Privacy Policy — Swell</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="top">
+    <a class="home" href="./">Swell</a>
+    <nav class="langs">
+      <a href="#uk">Українська</a>
+      <a href="#ru">Русский</a>
+      <a href="#en">English</a>
+    </nav>
+  </header>
+  <main>
+    <p class="updated">Multilingual: Ukrainian, Russian, English — see sections below.</p>
+
+    <article id="uk" class="lang-block">
+      <h1 class="doc-title">Політика конфіденційності</h1>
+      <p class="updated-inline">Оновлено: 15 квітня 2026</p>
+    <section class="block">
+      <h2>1. Загальні положення</h2>
+      <p>Ця Політика конфіденційності описує, як мобільний застосунок Swell («Застосунок») збирає, використовує та захищає інформацію користувачів. Swell призначений для гри з метафоричними та ігровими колодами карт, створення власних колод і взаємодії з каталогом творців. Застосунок не є медичним сервісом і не надає діагностики чи лікування.</p>
+    </section>
+    <section class="block">
+      <h2>2. Відповідальна особа та контакт</h2>
+      <p>З питань щодо персональних даних або запитів щодо конфіденційності звертайтесь на email: sensecube@ukr.net.</p>
+    </section>
+    <section class="block">
+      <h2>3. Які дані ми обробляємо</h2>
+      <p>Залежно від того, як ви користуєтеся Застосунком, можуть оброблятися: дані облікового запису (ідентифікатор користувача Firebase, email та ім’я/аватар, отримані від провайдера входу — наприклад Google або Apple); дані профілю творця колод (відображуване ім’я, фото, короткий опис, контактні дані, які ви самі вказали); контент, який ви створюєте (колоди, картки, оцінки, відгуки); технічні та службові дані (інформація про пристрій, мову інтерфейсу, журнали помилок у межах, дозволених платформою).</p>
+    </section>
+    <section class="block">
+      <h2>4. Мета обробки</h2>
+      <p>Дані використовуються для надання функцій Застосунку (авторизація, збереження прогресу, каталог колод, модерація публікацій), покращення стабільності та безпеки, виконання покупок у межах монетизації (якщо увімкнено), а також для виконання законних вимог.</p>
+    </section>
+    <section class="block">
+      <h2>5. Правова основа (для користувачів у ЄЕЗ)</h2>
+      <p>Обробка здійснюється на підставі виконання угоди з вами (надання сервісу), згоди там, де вона запитується окремо (наприклад, екран згоди при першому запуску), а також законного інтересу (безпека, захист від зловживань) там, де це застосовно.</p>
+    </section>
+    <section class="block">
+      <h2>6. Передача третім особам</h2>
+      <p>Ми використовуємо інфраструктуру Firebase (Google) для автентифікації, бази даних та сховища файлів у межах налаштувань вашого проєкту. Платежі та відновлення покупок можуть оброблятися Apple / Google відповідно до їхніх правил. Ми не продаємо ваші персональні дані.</p>
+    </section>
+    <section class="block">
+      <h2>7. Зберігання та видалення</h2>
+      <p>Дані зберігаються поки діє ваш обліковий запис і потрібні для роботи сервісу. Ви можете видалити обліковий запис у Налаштуваннях — після цього ми ініціюємо видалення пов’язаних даних у межах технічно можливого та з урахуванням резервних копій і законних строків.</p>
+    </section>
+    <section class="block">
+      <h2>8. Ваші права</h2>
+      <p>Ви можете звернутися з запитом на доступ, виправлення, обмеження обробки або видалення персональних даних, а також відкликати згоду, де вона є основою обробки. Запити можна надіслати на контактний email із темою «Персональні дані / Swell».</p>
+    </section>
+    <section class="block">
+      <h2>9. Діти</h2>
+      <p>Застосунок не призначений для дітей молодше 13 років (або віку, встановленого у вашій юрисдикції) без згоди батьків. Якщо ви вважаєте, що ми отримали дані дитини без належної згоди, повідомте нас.</p>
+    </section>
+    <section class="block">
+      <h2>10. Зміни до політики</h2>
+      <p>Ми можемо оновлювати цю Політику. Актуальна версія доступна в Застосунку. Продовжуючи користуватися сервісом після змін, ви підтверджуєте ознайомлення з оновленнями, якщо інше не вимагається законом.</p>
+    </section>
+    </article>
+    <article id="ru" class="lang-block">
+      <h1 class="doc-title">Политика конфиденциальности</h1>
+      <p class="updated-inline">Обновлено: 15 апреля 2026</p>
+    <section class="block">
+      <h2>1. Общие положения</h2>
+      <p>Настоящая Политика конфиденциальности описывает, как мобильное приложение Swell («Приложение») собирает, использует и защищает информацию пользователей. Swell предназначен для игры с метафорическими и игровыми колодами карт, создания собственных колод и взаимодействия с каталогом авторов. Приложение не является медицинским сервисом и не предоставляет диагностики или лечения.</p>
+    </section>
+    <section class="block">
+      <h2>2. Контакт</h2>
+      <p>По вопросам персональных данных и конфиденциальности пишите на email: sensecube@ukr.net.</p>
+    </section>
+    <section class="block">
+      <h2>3. Какие данные мы обрабатываем</h2>
+      <p>В зависимости от использования могут обрабатываться: данные учётной записи (идентификатор Firebase, email и имя/аватар от провайдера входа — например Google или Apple); данные профиля автора колод (отображаемое имя, фото, описание, контакты, которые вы указали сами); создаваемый вами контент (колоды, карточки, оценки, отзывы); технические данные (язык интерфейса, сведения об устройстве в пределах, разрешённых платформой).</p>
+    </section>
+    <section class="block">
+      <h2>4. Цели обработки</h2>
+      <p>Данные используются для работы приложения (авторизация, прогресс, каталог, модерация), безопасности и стабильности, обработки покупок (если монетизация включена) и соблюдения закона.</p>
+    </section>
+    <section class="block">
+      <h2>5. Правовая основа (ЕЭЗ)</h2>
+      <p>Обработка осуществляется на основании договора с вами, согласия там, где оно запрошено отдельно, а также законного интереса (безопасность) где применимо.</p>
+    </section>
+    <section class="block">
+      <h2>6. Передача третьим лицам</h2>
+      <p>Используется инфраструктура Firebase (Google). Платежи могут обрабатываться Apple/Google по их правилам. Мы не продаём персональные данные.</p>
+    </section>
+    <section class="block">
+      <h2>7. Хранение и удаление</h2>
+      <p>Данные хранятся, пока существует аккаунт. Удаление аккаунта доступно в Настройках; мы удаляем связанные данные в разумные сроки с учётом резервных копий и закона.</p>
+    </section>
+    <section class="block">
+      <h2>8. Ваши права</h2>
+      <p>Вы можете запросить доступ, исправление, ограничение или удаление данных, а также отозвать согласие. Запросы направляйте на контактный email с темой «Персональные данные / Swell».</p>
+    </section>
+    <section class="block">
+      <h2>9. Дети</h2>
+      <p>Приложение не предназначено для детей младше 13 лет (или возраста по закону вашей страны) без согласия родителей.</p>
+    </section>
+    <section class="block">
+      <h2>10. Изменения</h2>
+      <p>Политика может обновляться. Актуальная версия доступна в приложении.</p>
+    </section>
+    </article>
+    <article id="en" class="lang-block">
+      <h1 class="doc-title">Privacy Policy</h1>
+      <p class="updated-inline">Last updated: April 15, 2026</p>
+    <section class="block">
+      <h2>1. Overview</h2>
+      <p>This Privacy Policy explains how the Swell mobile app (“App”) collects, uses, and protects user information. Swell is for playing metaphorical and game card decks, creating your own decks, and browsing creator profiles. The App is not a medical service and does not provide diagnosis or treatment.</p>
+    </section>
+    <section class="block">
+      <h2>2. Contact</h2>
+      <p>For privacy-related requests, contact us at: sensecube@ukr.net.</p>
+    </section>
+    <section class="block">
+      <h2>3. Data we process</h2>
+      <p>Depending on your use, we may process: account data (Firebase user ID, email, name/avatar from your sign-in provider such as Google or Apple); deck-creator profile fields you provide (display name, photo, about text, optional phone); content you create (decks, cards, ratings, reviews); and limited technical data (e.g. language, device-related data allowed by the platform).</p>
+    </section>
+    <section class="block">
+      <h2>4. Purposes</h2>
+      <p>We use data to run the App (sign-in, sync, catalog, moderation), maintain security and stability, process in-app purchases where enabled, and comply with law.</p>
+    </section>
+    <section class="block">
+      <h2>5. Legal bases (EEA users)</h2>
+      <p>Processing is based on performing our contract with you, consent where we ask for it separately, and legitimate interests (e.g. security) where applicable.</p>
+    </section>
+    <section class="block">
+      <h2>6. Sharing</h2>
+      <p>We use Firebase (Google) for authentication, database, and storage. Purchases may be processed by Apple/Google under their terms. We do not sell your personal data.</p>
+    </section>
+    <section class="block">
+      <h2>7. Retention &amp; deletion</h2>
+      <p>We keep data while your account is active and as needed for the service. You can delete your account in Settings; we will delete related data subject to backup and legal retention requirements.</p>
+    </section>
+    <section class="block">
+      <h2>8. Your rights</h2>
+      <p>You may request access, correction, restriction, or deletion, and withdraw consent where consent is the basis. Email us with the subject “Personal data / Swell”.</p>
+    </section>
+    <section class="block">
+      <h2>9. Children</h2>
+      <p>The App is not directed at children under 13 (or the age required in your region) without parental consent.</p>
+    </section>
+    <section class="block">
+      <h2>10. Changes</h2>
+      <p>We may update this Policy. The current version is available in the App.</p>
+    </section>
+    </article>
+  </main>
+  <footer class="foot">
+    <p><a href="./privacy.html">Privacy Policy</a> · <a href="./terms.html">Terms of Service</a> · <a href="mailto:sensecube@ukr.net">sensecube@ukr.net</a></p>
+    <p class="small">Swell mobile app — game and metaphorical card decks. Not a medical service.</p>
+  </footer>
+</body>
+</html>
