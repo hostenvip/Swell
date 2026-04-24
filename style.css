@@ -23,6 +23,11 @@ body {
   max-width: 56rem;
   margin: 0 auto;
 }
+
+main {
+  max-width: 56rem;
+  margin: 0 auto;
+}
 .top {
   display: flex;
   flex-wrap: wrap;
@@ -63,6 +68,11 @@ body {
 .lang-block {
   margin-bottom: 3rem;
   scroll-margin-top: 1rem;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 1.25rem;
+  box-shadow: 0 0 0 1px rgba(255,255,255,0.02), 0 18px 60px rgba(0,0,0,0.55);
 }
 .card {
   background: var(--card);
