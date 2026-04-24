@@ -3,27 +3,28 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Privacy Policy — Swell</title>
+  <title>Privacy Policy — Swell Life</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <header class="top">
-    <a class="home" href="./">Swell</a>
-    <nav class="langs">
-      <a href="#uk">Українська</a>
-      <a href="#ru">Русский</a>
-      <a href="#en">English</a>
-    </nav>
-  </header>
-  <main>
-    <p class="updated">Multilingual: Ukrainian, Russian, English — see sections below.</p>
+  <div class="container">
+    <header class="top">
+      <a class="home" href="./">Swell Life</a>
+      <nav class="langs">
+        <a href="#uk">Українська</a>
+        <a href="#ru">Русский</a>
+        <a href="#en">English</a>
+      </nav>
+    </header>
+    <main>
+      <p class="updated">Multilingual: Ukrainian, Russian, English — see sections below.</p>
 
     <article id="uk" class="lang-block">
       <h1 class="doc-title">Політика конфіденційності</h1>
-      <p class="updated-inline">Оновлено: 15 квітня 2026</p>
+      <p class="updated-inline">Оновлено: 24 квітня 2026</p>
     <section class="block">
       <h2>1. Загальні положення</h2>
-      <p>Ця Політика конфіденційності описує, як мобільний застосунок Swell («Застосунок») збирає, використовує та захищає інформацію користувачів. Swell призначений для гри з метафоричними та ігровими колодами карт, створення власних колод і взаємодії з каталогом творців. Застосунок не є медичним сервісом і не надає діагностики чи лікування.</p>
+      <p>Ця Політика конфіденційності описує, як мобільний застосунок Swell Life («Застосунок») збирає, використовує та захищає інформацію користувачів. Swell Life призначений для гри з метафоричними та ігровими колодами карт, створення власних колод і тестів та взаємодії з каталогом авторів. Застосунок не є медичним сервісом і не надає діагностики чи лікування.</p>
     </section>
     <section class="block">
       <h2>2. Відповідальна особа та контакт</h2>
@@ -35,7 +36,7 @@
     </section>
     <section class="block">
       <h2>4. Мета обробки</h2>
-      <p>Дані використовуються для надання функцій Застосунку (авторизація, збереження прогресу, каталог колод, модерація публікацій), покращення стабільності та безпеки, виконання покупок у межах монетизації (якщо увімкнено), а також для виконання законних вимог.</p>
+      <p>Дані використовуються для надання функцій Застосунку (авторизація, збереження прогресу, каталог колод і тестів), покращення стабільності та безпеки, виконання покупок у межах монетизації (якщо увімкнено), а також для виконання законних вимог.</p>
     </section>
     <section class="block">
       <h2>5. Правова основа (для користувачів у ЄЕЗ)</h2>
@@ -64,10 +65,10 @@
     </article>
     <article id="ru" class="lang-block">
       <h1 class="doc-title">Политика конфиденциальности</h1>
-      <p class="updated-inline">Обновлено: 15 апреля 2026</p>
+      <p class="updated-inline">Обновлено: 24 апреля 2026</p>
     <section class="block">
       <h2>1. Общие положения</h2>
-      <p>Настоящая Политика конфиденциальности описывает, как мобильное приложение Swell («Приложение») собирает, использует и защищает информацию пользователей. Swell предназначен для игры с метафорическими и игровыми колодами карт, создания собственных колод и взаимодействия с каталогом авторов. Приложение не является медицинским сервисом и не предоставляет диагностики или лечения.</p>
+      <p>Настоящая Политика конфиденциальности описывает, как мобильное приложение Swell Life («Приложение») собирает, использует и защищает информацию пользователей. Swell Life предназначен для игры с метафорическими и игровыми колодами карт, создания собственных колод и тестов и взаимодействия с каталогом авторов. Приложение не является медицинским сервисом и не предоставляет диагностики или лечения.</p>
     </section>
     <section class="block">
       <h2>2. Контакт</h2>
@@ -79,7 +80,7 @@
     </section>
     <section class="block">
       <h2>4. Цели обработки</h2>
-      <p>Данные используются для работы приложения (авторизация, прогресс, каталог, модерация), безопасности и стабильности, обработки покупок (если монетизация включена) и соблюдения закона.</p>
+      <p>Данные используются для работы приложения (авторизация, прогресс, каталог колод и тестов), безопасности и стабильности, обработки покупок (если монетизация включена) и соблюдения закона.</p>
     </section>
     <section class="block">
       <h2>5. Правовая основа (ЕЭЗ)</h2>
@@ -108,10 +109,10 @@
     </article>
     <article id="en" class="lang-block">
       <h1 class="doc-title">Privacy Policy</h1>
-      <p class="updated-inline">Last updated: April 15, 2026</p>
+      <p class="updated-inline">Last updated: April 24, 2026</p>
     <section class="block">
       <h2>1. Overview</h2>
-      <p>This Privacy Policy explains how the Swell mobile app (“App”) collects, uses, and protects user information. Swell is for playing metaphorical and game card decks, creating your own decks, and browsing creator profiles. The App is not a medical service and does not provide diagnosis or treatment.</p>
+      <p>This Privacy Policy explains how the Swell Life mobile app (“App”) collects, uses, and protects user information. Swell Life is for playing metaphorical and game card decks, creating your own decks and quizzes, and browsing creator profiles. The App is not a medical service and does not provide diagnosis or treatment.</p>
     </section>
     <section class="block">
       <h2>2. Contact</h2>
@@ -123,7 +124,7 @@
     </section>
     <section class="block">
       <h2>4. Purposes</h2>
-      <p>We use data to run the App (sign-in, sync, catalog, moderation), maintain security and stability, process in-app purchases where enabled, and comply with law.</p>
+      <p>We use data to run the App (sign-in, sync, deck and quiz catalog), maintain security and stability, process in-app purchases where enabled, and comply with law.</p>
     </section>
     <section class="block">
       <h2>5. Legal bases (EEA users)</h2>
@@ -150,10 +151,11 @@
       <p>We may update this Policy. The current version is available in the App.</p>
     </section>
     </article>
-  </main>
-  <footer class="foot">
-    <p><a href="./privacy.html">Privacy Policy</a> · <a href="./terms.html">Terms of Service</a> · <a href="mailto:sensecube@ukr.net">sensecube@ukr.net</a></p>
-    <p class="small">Swell mobile app — game and metaphorical card decks. Not a medical service.</p>
-  </footer>
+    </main>
+    <footer class="foot">
+      <p><a href="./privacy.html">Privacy Policy</a> · <a href="./terms.html">Terms of Service</a> · <a href="mailto:sensecube@ukr.net">sensecube@ukr.net</a></p>
+      <p class="small">Swell Life mobile app — game and metaphorical card decks. Not a medical service.</p>
+    </footer>
+  </div>
 </body>
 </html>
