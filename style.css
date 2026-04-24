@@ -1,107 +1,161 @@
-/* Public legal site — keep in sync via: node scripts/build-legal-site.mjs */
-:root {
-  --bg: #000000;
-  --card: rgba(255,255,255,0.06);
-  --text: #e8eef4;
-  --muted: #9aa8b8;
-  --link: #4A9FD4;
-  --border: rgba(74, 159, 212, 0.22);
-  --glow: rgba(74, 159, 212, 0.28);
-}
-* { box-sizing: border-box; }
-body {
-  margin: 0;
-  font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, sans-serif;
-  background: radial-gradient(1200px 800px at 50% 15%, rgba(74,159,212,0.18), transparent 55%),
-    radial-gradient(900px 600px at 20% 90%, rgba(74,159,212,0.10), transparent 60%),
-    var(--bg);
-  color: var(--text);
-  line-height: 1.6;
-  padding: 0 1rem 3rem;
-}
-.container {
-  max-width: 56rem;
-  margin: 0 auto;
-}
-.top {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-between;
-  gap: 0.75rem;
-  padding: 1rem 0;
-  border-bottom: 1px solid var(--border);
-  margin-bottom: 1.5rem;
-}
-.home {
-  font-weight: 700;
-  font-size: 1.25rem;
-  color: var(--text);
-  text-decoration: none;
-  letter-spacing: 0.2px;
-}
-.langs a {
-  color: var(--link);
-  margin-right: 0.75rem;
-  text-decoration: none;
-}
-.langs a:hover { text-decoration: underline; }
-.updated {
-  color: var(--muted);
-  font-size: 0.9rem;
-  margin-bottom: 1.5rem;
-}
-.updated-inline {
-  color: var(--muted);
-  font-size: 0.95rem;
-  margin: -0.5rem 0 1.25rem;
-}
-.doc-title {
-  font-size: 1.75rem;
-  margin: 0 0 0.5rem;
-}
-.lang-block {
-  margin-bottom: 3rem;
-  scroll-margin-top: 1rem;
-}
-.card {
-  background: var(--card);
-  border: 1px solid var(--border);
-  border-radius: 16px;
-  padding: 1.25rem;
-  box-shadow: 0 0 0 1px rgba(255,255,255,0.02), 0 18px 60px rgba(0,0,0,0.55);
-}
-.block {
-  margin-bottom: 1.5rem;
-}
-.block h2 {
-  font-size: 1.05rem;
-  margin: 0 0 0.5rem;
-  color: var(--link);
-}
-.block p {
-  margin: 0;
-  color: var(--text);
-  opacity: 0.95;
-}
-.foot {
-  margin-top: 3rem;
-  padding-top: 1.5rem;
-  border-top: 1px solid var(--border);
-  color: var(--muted);
-  font-size: 0.9rem;
-}
-.foot a { color: var(--link); }
-.small { font-size: 0.85rem; opacity: 0.85; }
-.landing { max-width: 40rem; }
-.landing h1 { margin-top: 0; }
-.lead { font-size: 1.1rem; }
-.links { list-style: none; padding: 0; }
-.links li { margin-bottom: 0.75rem; }
-.links a {
-  color: var(--link);
-  font-weight: 600;
-  font-size: 1.1rem;
-}
-.hint { color: var(--muted); font-size: 0.9rem; }
-.contact { margin-top: 2rem; }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Terms of Service — Swell Life</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <header class="top">
+      <a class="home" href="./">Swell Life</a>
+      <nav class="langs">
+        <a href="#uk">Українська</a>
+        <a href="#ru">Русский</a>
+        <a href="#en">English</a>
+      </nav>
+    </header>
+    <main>
+      <p class="updated">Multilingual: Ukrainian, Russian, English — see sections below.</p>
+
+    <article id="uk" class="lang-block">
+      <h1 class="doc-title">Умови використання</h1>
+      <p class="updated-inline">Оновлено: 24 квітня 2026</p>
+    <section class="block">
+      <h2>1. Хто ми</h2>
+      <p>Swell Life — мобільний застосунок для гри з колодами карт, перегляду галереї карток, створення власних колод і тестів та взаємодії з каталогом авторів. Контент носить розважальний і метафоричний характер.</p>
+    </section>
+    <section class="block">
+      <h2>2. Прийняття умов</h2>
+      <p>Користуючись Застосунком, ви погоджуєтеся з цими Умовами та з Політикою конфіденційності. Якщо ви не згодні — припиніть використання.</p>
+    </section>
+    <section class="block">
+      <h2>3. Обліковий запис</h2>
+      <p>Вхід здійснюється через Google або Apple відповідно до правил цих сервісів. Профіль автора є опційним; якщо ви його заповнюєте, надавайте достовірну інформацію та не видавайте себе за іншу особу.</p>
+    </section>
+    <section class="block">
+      <h2>4. Контент і правила спільноти</h2>
+      <p>Заборонено публікувати незаконний, образливий, дискримінаційний контент, контент сексуального насильства, заклики до шкоди собі або іншим, а також матеріали, що порушують права третіх осіб. Ми можемо обмежити доступ до Застосунку або прибрати контент у разі порушень цих Умов або правил платформ Apple/Google.</p>
+    </section>
+    <section class="block">
+      <h2>5. Інтелектуальна власність</h2>
+      <p>Ви зберігаєте права на контент, який створюєте, надаючи оператору ліцензію на його зберігання, відображення в Застосунку та промо в межах сервісу. Не завантажуйте матеріали, на які у вас немає прав.</p>
+    </section>
+    <section class="block">
+      <h2>6. Покупки та кредити</h2>
+      <p>Якщо в Застосунку доступні покупки колод або кредитів, вони оформлюються через Apple/Google і регулюються їхніми умовами. Ціни та відновлення покупок вказані в інтерфейсі та налаштуваннях.</p>
+    </section>
+    <section class="block">
+      <h2>7. Відмова від гарантій</h2>
+      <p>Застосунок надається «як є». Ми не гарантуємо безперервну роботу без помилок. Картки та колоди не є медичними, терапевтичними чи юридичними порадами.</p>
+    </section>
+    <section class="block">
+      <h2>8. Обмеження відповідальності</h2>
+      <p>У межах, дозволених законом, ми не відповідаємо за непрямі збитки, втрату даних через дії третіх осіб або неправильне використання Застосунку. Ваша відповідальність — у збереженні доступу до акаунта та пристрою.</p>
+    </section>
+    <section class="block">
+      <h2>9. Припинення</h2>
+      <p>Ви можете припинити використання та видалити акаунт у Налаштуваннях. Ми можемо обмежити доступ при порушенні цих Умов.</p>
+    </section>
+    <section class="block">
+      <h2>10. Застосовне право</h2>
+      <p>Умови регулюються законодавством з урахуванням місця вашого перебування та правил платформ Apple/Google. Спори спочатку вирішуються шляхом переговорів, далі — у компетентному суді.</p>
+    </section>
+    </article>
+    <article id="ru" class="lang-block">
+      <h1 class="doc-title">Условия использования</h1>
+      <p class="updated-inline">Обновлено: 24 апреля 2026</p>
+    <section class="block">
+      <h2>1. О сервисе</h2>
+      <p>Swell Life — мобильное приложение для игры с колодами карт, галереи, создания собственных колод и тестов, а также каталога авторов. Контент развлекательный и метафорический.</p>
+    </section>
+    <section class="block">
+      <h2>2. Принятие условий</h2>
+      <p>Используя Приложение, вы соглашаетесь с настоящими Условиями и Политикой конфиденциальности. Если не согласны — прекратите использование.</p>
+    </section>
+    <section class="block">
+      <h2>3. Аккаунт</h2>
+      <p>Вход через Google или Apple по правилам этих сервисов. Профиль автора опционален; если вы его заполняете, указывайте достоверные данные.</p>
+    </section>
+    <section class="block">
+      <h2>4. Контент</h2>
+      <p>Запрещён незаконный, оскорбительный, дискриминационный контент, призывы к насилию и нарушение прав третьих лиц. Мы можем ограничить доступ или удалить контент при нарушении этих Условий или правил платформ Apple/Google.</p>
+    </section>
+    <section class="block">
+      <h2>5. Интеллектуальная собственность</h2>
+      <p>Права на ваш контент сохраняются за вами; вы предоставляете лицензию на хостинг и показ в Приложении. Не загружайте чужие материалы без прав.</p>
+    </section>
+    <section class="block">
+      <h2>6. Покупки</h2>
+      <p>Покупки колод и кредитов (если доступны) обрабатываются Apple/Google по их условиям.</p>
+    </section>
+    <section class="block">
+      <h2>7. Отказ от гарантий</h2>
+      <p>Сервис предоставляется «как есть». Карты и колоды не являются медицинской или юридической консультацией.</p>
+    </section>
+    <section class="block">
+      <h2>8. Ограничение ответственности</h2>
+      <p>В пределах, допустимых законом, мы не отвечаем за косвенные убытки и действия третьих лиц.</p>
+    </section>
+    <section class="block">
+      <h2>9. Прекращение</h2>
+      <p>Вы можете удалить аккаунт в Настройках. Доступ может быть ограничен при нарушении Условий.</p>
+    </section>
+    <section class="block">
+      <h2>10. Право</h2>
+      <p>Применяется закон с учётом вашей юрисдикции и правил платформ.</p>
+    </section>
+    </article>
+    <article id="en" class="lang-block">
+      <h1 class="doc-title">Terms of Service</h1>
+      <p class="updated-inline">Last updated: April 24, 2026</p>
+    <section class="block">
+      <h2>1. The service</h2>
+      <p>Swell Life is a mobile app for playing card decks, browsing card art, creating your own decks and quizzes, and exploring creators. Content is entertainment and metaphorical.</p>
+    </section>
+    <section class="block">
+      <h2>2. Acceptance</h2>
+      <p>By using the App you agree to these Terms and our Privacy Policy. If you disagree, stop using the App.</p>
+    </section>
+    <section class="block">
+      <h2>3. Accounts</h2>
+      <p>Sign-in is via Google or Apple under their rules. The creator profile is optional; if you fill it in, the information must be truthful.</p>
+    </section>
+    <section class="block">
+      <h2>4. Content &amp; community</h2>
+      <p>You may not post unlawful, abusive, discriminatory content, sexual violence, self-harm encouragement, or material that infringes others’ rights. We may suspend access or remove content for violations of these Terms or Apple/Google platform rules.</p>
+    </section>
+    <section class="block">
+      <h2>5. Intellectual property</h2>
+      <p>You retain rights to content you create and grant us a license to host and display it in the App. Do not upload content you do not have rights to use.</p>
+    </section>
+    <section class="block">
+      <h2>6. Purchases &amp; credits</h2>
+      <p>If deck purchases or credits are available, they are processed by Apple/Google under their terms. See in-app settings for restore options where applicable.</p>
+    </section>
+    <section class="block">
+      <h2>7. Disclaimer</h2>
+      <p>The App is provided “as is.” Cards and decks are not medical, therapeutic, or legal advice.</p>
+    </section>
+    <section class="block">
+      <h2>8. Limitation of liability</h2>
+      <p>To the extent permitted by law, we are not liable for indirect damages or third-party actions beyond our control.</p>
+    </section>
+    <section class="block">
+      <h2>9. Termination</h2>
+      <p>You may delete your account in Settings. We may suspend access for violations of these Terms.</p>
+    </section>
+    <section class="block">
+      <h2>10. Governing law</h2>
+      <p>These Terms are governed by applicable law and platform rules (Apple/Google). Disputes should first be raised via support email.</p>
+    </section>
+    </article>
+    </main>
+    <footer class="foot">
+      <p><a href="./privacy.html">Privacy Policy</a> · <a href="./terms.html">Terms of Service</a> · <a href="mailto:sensecube@ukr.net">sensecube@ukr.net</a></p>
+      <p class="small">Swell Life mobile app — game and metaphorical card decks. Not a medical service.</p>
+    </footer>
+  </div>
+</body>
+</html>
